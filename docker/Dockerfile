@@ -23,4 +23,4 @@ RUN pip install --no-cache-dir \
 
 ENV DISPLAY=:0
 
-CMD ["python", "v2.py"]
+CMD ["python", "main.py"]
